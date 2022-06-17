@@ -2,6 +2,8 @@
 
 GLTF 3d 모델링 파일을 이용한 예제 (react-three + typescript)
 
+![Example](./public/example.png)
+
 
 ## Reference
 
