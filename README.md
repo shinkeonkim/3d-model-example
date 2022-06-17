@@ -1,13 +1,13 @@
 # 3D Model Example
 
-GLTF 3d 모델링 파일을 이용한 예제 (react-three + typescript)
+3d model GLTF loader example (react-three + typescript)
 
 ![Example](./public/example.png)
 
 
 ## Reference
 
-[웹 포트폴리오에 간지나게 3D 모델을 추가해보자 (Three.js)](https://www.youtube.com/watch?v=CojyGfCMvuU) 영상을 계기로 만듬
+Got inspiration from [웹 포트폴리오에 간지나게 3D 모델을 추가해보자 (Three.js) Youtube Video](https://www.youtube.com/watch?v=CojyGfCMvuU) 
 
 
 ## Using Asset
